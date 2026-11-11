@@ -12,22 +12,31 @@
 
 Prototipo robótico educativo desarrollado como parte del proyecto de grado en modalidad de pasantía **“Desarrollo de prototipos robóticos para la enseñanza en Nariño”**, realizado en la **Subsecretaría de Innovación**.
 
-Este repositorio reúne los recursos didácticos y la documentación relacionados con el prototipo PATITAS: cartilla, tutorial de construcción, listado de componentes y material complementario para apoyar su implementación en espacios educativos.
+Este repositorio reúne los recursos didácticos y la documentación relacionados con el prototipo PATITAS, con el propósito de apoyar su construcción y uso en espacios educativos.
 
 ## Sobre el prototipo
 
 PATITAS es una araña mecánica educativa cuyo mecanismo permite explorar conceptos básicos de robótica, movimiento y sistemas electromecánicos mediante el montaje y la interacción con un prototipo físico.
 
-## Recursos
+## Recursos educativos
 
-### Cartilla
-Guía didáctica para conocer los componentes, el circuito y el proceso de montaje del prototipo.
+### Cartilla de construcción y uso
 
-*Próximamente: enlace al archivo PDF.*
+La cartilla se encuentra dentro de la carpeta **cartilla/**. Para consultarla, ingresa a esa carpeta y selecciona el archivo PDF. Puedes visualizarlo directamente en GitHub o descargarlo a tu dispositivo.
+
+<p align="center">
+  <a href="cartilla/cartilla_araña_mecanica.pdf">
+    <img src="https://img.shields.io/badge/📖%20VISUALIZAR%20CARTILLA-Abrir%20PDF-blue?style=for-the-badge" alt="Visualizar cartilla en GitHub">
+  </a>
+  &nbsp;
+  <a href="https://raw.githubusercontent.com/santiagoenriquez15/Prototipo-Educativo-Ara-a-Mecanica/main/cartilla/cartilla_ara%C3%B1a_mecanica.pdf">
+    <img src="https://img.shields.io/badge/⬇%20DESCARGAR-Cartilla%20PDF-success?style=for-the-badge" alt="Descargar cartilla PDF">
+  </a>
+</p>
 
 ### Tutorial de construcción
 
-Haz clic en la imagen para ver el video en YouTube:
+Haz clic en la miniatura o en el botón para ver el video en YouTube:
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Rccqas9SQrU">
@@ -41,19 +50,35 @@ Haz clic en la imagen para ver el video en YouTube:
   </a>
 </p>
 
-### Componentes y material complementario
+## Documentación visual
 
-- **Componentes:** relación de materiales y elementos utilizados.
-- **Fotografías:** imágenes del prototipo y sus componentes disponibles en la carpeta `imagenes/`.
-- **Otros recursos:** materiales de apoyo que se incorporarán posteriormente.
+### Listado de componentes
 
-## Créditos y atribución del diseño
+En la siguiente imagen se presenta la relación de los componentes utilizados para el desarrollo del prototipo.
+
+<p align="center">
+  <img src="imagenes/Listado%20de%20componentes.png" alt="Listado de componentes de PATITAS: Araña mecánica" width="700">
+</p>
+
+### Conexiones internas
+
+Esta fotografía permite observar la disposición de los elementos y las conexiones internas del prototipo.
+
+<p align="center">
+  <img src="imagenes/Conexiones_internas.png" alt="Conexiones internas del prototipo PATITAS" width="700">
+</p>
+
+## Créditos y autorización de uso del diseño
 
 El mecanismo de este prototipo está basado en el modelo **“Strandbeest – 4 extremidades”**, diseñado originalmente por **RoboLacyTech** y publicado en Cults3D:
 
-[Consultar el modelo original en Cults3D](https://cults3d.com/es/modelo-3d/artilugios/strandbeest-4-extremidades)
+[Consultar el modelo original en Cults3D](https://cults3d.com/es/modelo-3d/artilugios/strandbeest-4-extremidades).
 
-La difusión de fotografías, renders, animaciones, videos y material didáctico asociado al prototipo se realiza con autorización del autor para fines educativos, conservando el reconocimiento correspondiente y el enlace al diseño original. Los archivos de las piezas del modelo original o sus adaptaciones no se redistribuyen desde este repositorio, y el material no se destina a usos comerciales.
+Se cuenta con autorización del autor para compartir fotografías, renders, animaciones, videos y material didáctico asociado al prototipo con fines educativos, conservando el reconocimiento correspondiente y el enlace al diseño original. Los archivos de las piezas del modelo original o sus adaptaciones no se redistribuyen desde este repositorio, y el material no se destina a usos comerciales.
+
+La evidencia de esta autorización se conserva en la carpeta **autorizacion/**:
+
+[Consultar evidencia de autorización](autorizacion/consentimiento_autor.png).
 
 ## Proyecto de grado
 
