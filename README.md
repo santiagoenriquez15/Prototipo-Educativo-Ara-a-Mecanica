@@ -1,5 +1,15 @@
 # PATITAS: Araña mecánica
 
+<p align="center">
+  <img src="imagenes/araña_armada.png" alt="Prototipo PATITAS: Araña mecánica completamente armado" width="600">
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Rccqas9SQrU">
+    <img src="https://img.shields.io/badge/▶%20VER%20EL%20TUTORIAL-YouTube-red?style=for-the-badge" alt="Ver tutorial de PATITAS en YouTube">
+  </a>
+</p>
+
 Prototipo robótico educativo desarrollado como parte del proyecto de grado en modalidad de pasantía **“Desarrollo de prototipos robóticos para la enseñanza en Nariño”**, realizado en la **Subsecretaría de Innovación**.
 
 Este repositorio reúne los recursos didácticos y la documentación relacionados con el prototipo PATITAS: cartilla, tutorial de construcción, listado de componentes y material complementario para apoyar su implementación en espacios educativos.
@@ -10,12 +20,32 @@ PATITAS es una araña mecánica educativa cuyo mecanismo permite explorar concep
 
 ## Recursos
 
-Los siguientes apartados se irán completando con los materiales del proyecto:
+### Cartilla
+Guía didáctica para conocer los componentes, el circuito y el proceso de montaje del prototipo.
 
-- **Cartilla:** guía didáctica para el montaje y uso del prototipo.
-- **Tutorial:** video de apoyo para el proceso de construcción.
+*Próximamente: enlace al archivo PDF.*
+
+### Tutorial de construcción
+
+Haz clic en la imagen para ver el video en YouTube:
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Rccqas9SQrU">
+    <img src="https://img.youtube.com/vi/Rccqas9SQrU/hqdefault.jpg" alt="Ver el tutorial de construcción de PATITAS en YouTube" width="560">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Rccqas9SQrU">
+    <strong>▶ Ver tutorial en YouTube</strong>
+  </a>
+</p>
+
+### Componentes y material complementario
+
 - **Componentes:** relación de materiales y elementos utilizados.
-- **Material complementario:** fotografías y recursos de apoyo.
+- **Fotografías:** imágenes del prototipo y sus componentes disponibles en la carpeta `imagenes/`.
+- **Otros recursos:** materiales de apoyo que se incorporarán posteriormente.
 
 ## Créditos y atribución del diseño
 
