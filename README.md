@@ -76,9 +76,7 @@ El mecanismo de este prototipo está basado en el modelo **“Strandbeest – 4 
 
 Se cuenta con autorización del autor para compartir fotografías, renders, animaciones, videos y material didáctico asociado al prototipo con fines educativos, conservando el reconocimiento correspondiente y el enlace al diseño original. Los archivos de las piezas del modelo original o sus adaptaciones no se redistribuyen desde este repositorio, y el material no se destina a usos comerciales.
 
-La evidencia de esta autorización se conserva en la carpeta **autorizacion/**:
 
-[Consultar evidencia de autorización](autorizacion/consentimiento_autor.png).
 
 ## Proyecto de grado
 
